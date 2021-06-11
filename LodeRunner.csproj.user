@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\EditorDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EndGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\LevelEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Score.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

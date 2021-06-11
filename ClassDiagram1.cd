@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LodeRunner.Logic.Points.Brick">
+    <Position X="5.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Points\Brick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.Character">
+    <Position X="9" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Points\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.Points.EmptyPoint">
+    <Position X="2" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Points\EmptyPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.Points.Enemy">
+    <Position X="10.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Points\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.GamePoint">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAEAAAAAAAAAAAAAAAAoAAAQAAAAAAYAA=</HashCode>
+      <FileName>Logic\Points\GamePoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.Points.Gold">
+    <Position X="2" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Points\Gold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.Points.Ladder">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Points\Ladder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.PickUpPoint">
+    <Position X="2" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Points\PickUpPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.Player">
+    <Position X="9" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Points\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.SemiSolidPoint">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Points\SemiSolidPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.SolidPoint">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Points\SolidPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.Points.TelePair">
+    <Position X="3.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Points\TelePair.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.Points.Teleport">
+    <Position X="3.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Points\Teleport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.VoidPoint">
+    <Position X="3.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Points\VoidPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.FieldPair">
+    <Position X="16.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAEAQAAAAAQAAACQEAAAAAAAAAAAAEAAAAAAAAkAA=</HashCode>
+      <FileName>Logic\FieldPair.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.FileHandler">
+    <Position X="18.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Logic\FileHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.GameField">
+    <Position X="20.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgKAGACAEIAAAAAECAAABTiAgQQgwAAFAIAACAACwEI=</HashCode>
+      <FileName>Logic\GameField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LodeRunner.Logic.ScoreItem">
+    <Position X="18.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAIAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\ScoreItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
